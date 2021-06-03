@@ -1,0 +1,448 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Miscellaneous propositions and quæres: by Iohn Robinson doctor in physick in Norwich</title>
+            <author>Robinson, John, M.D.</author>
+         </titleStmt>
+         <extent>Approx. 36KB of XML-encoded text transcribed from 20 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B29025</idno><idno type="EEBO-CITATION">99829663</idno>
+  <idno type="VID">207146</idno>
+  <idno type="EEBO-PROQUEST">2248503758</idno>
+  
+            <idno type="STC">Wing R1702B</idno>
+            <idno type="PROQUEST">99829663</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-99829663e"/>
+            <note>(EEBO-TCP ; phase 2, no. B29025)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 207146)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 2000:12)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Miscellaneous propositions and quæres: by Iohn Robinson doctor in physick in Norwich</title>
+                  <author>Robinson, John, M.D.</author>
+               </titleStmt>
+               <extent>[6], 31, [1] p.   </extent>
+               <publicationStmt>
+                  <publisher>printed for R. Royston at the Angel in Ivie-lane,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>M.DC.XL.IX. [1649]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="topical_term">Christian life --  Early works to 1800.</term>
+               <term type="topical_term">Medicine --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-07 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-11 </date>
+            <label>Olivia Bottum </label>Sampled and proofread </change>
+         <change>
+            <date>2014-11 </date>
+            <label>Olivia Bottum</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:207146:1"/>
+            <p>
+               <hi>MISCELLANEOUS</hi> PROPOSITIONS AND <hi>QƲAERES:</hi> By IOHN ROBINSON Doctor in Physick, in <hi>Norwich.</hi>
+            </p>
+            <p>
+               <hi>Fabricando Fabri Fimus</hi>
+            </p>
+            <p>
+               <hi>LONDON.</hi> Printed for <hi>R. Royston</hi> at the <hi>Angel</hi> in <hi>Ivie-lane, M.DC.XL.IX.</hi>
+            </p>
+         </div>
+         <div type="to_the_reader">
+            <pb facs="tcp:207146:2"/>
+            <pb facs="tcp:207146:2"/>
+            <gap reason="duplicate" extent="1 page">
+               <desc>〈1 page duplicate〉</desc>
+            </gap>
+            <pb facs="tcp:207146:3"/>
+            <pb facs="tcp:207146:3"/>
+            <head>To the candid Reader.</head>
+            <p>HEre you have a hand<g ref="char:EOLhyphen"/>full of abrupt concep<g ref="char:EOLhyphen"/>tions, or rather abortions of mine, their birth for some reasons being precipitated; And neither my Genius, nor my calling, will allow me a sequestred time, to dwel long upon any subject.</p>
+            <p>You may meet with two obstacles retarding your con<g ref="char:EOLhyphen"/>sent: First, that I take many <hi>Postulata</hi> for granted; which, because they are by others
+<pb facs="tcp:207146:4"/>sufficiently proved, I preter<g ref="char:EOLhyphen"/>mit: And then, that the Names of the Authors, are not set down; to which may be answered, that some are Anonimous, (though not to me.) Besides, I have no quarrell with any man, but rather discuss the Questions which many defend.</p>
+            <p>My intention is not to en<g ref="char:EOLhyphen"/>ter into controversie, with all the strength, and maine bo<g ref="char:EOLhyphen"/>dy of a Battle, but by excur<g ref="char:EOLhyphen"/>sions, in a velitary way, to skirmish with some, whom, (all due love and respect in<g ref="char:EOLhyphen"/>violated) I dissent from.</p>
+            <p>My wished end is, by
+<pb facs="tcp:207146:4"/>gentle concussion the Emul<g ref="char:EOLhyphen"/>sion of Truth: which if I find to answer my desires, I shall thinke it an ample reward of these few unfiled lines.</p>
+            <closer>
+               <salute>Farewell.</salute>
+            </closer>
+         </div>
+         <div type="table_of_contents">
+            <pb facs="tcp:207146:5"/>
+            <head>The Contents.</head>
+            <list>
+               <item>I. <hi>OF a Church.</hi> pag. 1.</item>
+               <item>II. <hi>Of Ministers.</hi> 11.</item>
+               <item>III. <hi>Of Sacraments.</hi> 14.</item>
+               <item>IV. <hi>Of Adam.</hi> 15.</item>
+               <item>V. <hi>Of Marriage.</hi> 17.</item>
+               <item>VI. <hi>Of Sympathy.</hi> 20.</item>
+               <item>VII. <hi>Of an Egge.</hi> 22.</item>
+               <item>VIII. <hi>Of Swimming, or Floa<g ref="char:EOLhyphen"/>ting.</hi> 24.</item>
+               <item>IX. <hi>Of Remedies.</hi> 26.</item>
+               <item>X. <hi>Of Telesmes.</hi> 29.</item>
+            </list>
+         </div>
+      </front>
+      <body>
+         <div type="propositions">
+            <pb n="1" facs="tcp:207146:5"/>
+            <head>Miscellaneous Propositions.</head>
+            <div n="1" type="proposition">
+               <head>I. <hi>Of a Church.</hi>
+               </head>
+               <p>
+                  <seg rend="decorInit">C</seg>Oncerning this subject (there being several O<g ref="char:EOLhyphen"/>pinions, as well of Fo<g ref="char:EOLhyphen"/>raigne, as our Native Men) I will endeavour what may be, to build upon such generall <hi>con<g ref="char:EOLhyphen"/>cessa,</hi> drawn from Sacred page, or reason, as the Truth may be most manifest.</p>
+               <p>That God had a Church, that is, a se<g ref="char:EOLhyphen"/>lect Company out of the World, from <hi>Caine's</hi> time; and shall have, unto the end, is undeniable by all, professing Chri<g ref="char:EOLhyphen"/>stianity: First, in Families, as in <hi>Noah, Melchizedec, Abraham;</hi> afterward, in the Nation of the <hi>Jewes:</hi> and now under the Gospel, dispersed throughout the face of the Earth. This Church, as it is
+<pb n="2" facs="tcp:207146:6"/>taken for an <hi>Universall Congregatum,</hi> or <hi>Collective,</hi> are all the Believers past, pre<g ref="char:EOLhyphen"/>sent, and in some sense to come, and may be called (as vulgarly it is) <hi>the</hi>
+                  <note n="*" place="margin">For which, who so prayeth, prayeth for the dead.</note>
+                  <hi>Univer<g ref="char:EOLhyphen"/>sall or Catholike Church;</hi> out of this there is no salvation; and of this, many may be, and are, among the Pagans, Turks, and remotest Hereticks, saved by a way unknown to us. But that there are par<g ref="char:EOLhyphen"/>ticular Churches, called by the Word of God, and joyned unto bodies, is un<g ref="char:EOLhyphen"/>questionable.</p>
+               <p>Now that the way of Gathering and Ruling of them, is in a determinate man<g ref="char:EOLhyphen"/>ner, unalterably set downe, either, in the heart of Man (which none can averre) or in the holy Word, by God himself might be gathered thus. A Prince, demanding Obedience of his Subjects; must needs set downe positive Lawes unalterable, (but by himselfe) and not leave it, to their prudentiall way, where, when, and how to obey him: This is a cleare dictate of reason, which God never (but extraor<g ref="char:EOLhyphen"/>dinarily) contradicts. Thus <hi>Adam, Noah, Abraham,</hi> did before the written Scrip<g ref="char:EOLhyphen"/>ture, by traditions teach their Families: Not that every one by Enthysiasme, was immediately taught of God, else Teaching had been frustraneous, which
+<pb n="3" facs="tcp:207146:6"/>God and Nature abhorreth: yea, God himselfe afterward, gave <hi>Moses</hi> a perfect patterne, of every particular thing, in the Tabernacle, even unto the smallest of all, from the which, he might not recede an inch; which did oblige the Children of <hi>Israel,</hi> unalterably unto the time of <hi>Solo<g ref="char:EOLhyphen"/>mon:</hi> who likewise did not in the least deviate from the expresse command of God, in all particulars; yea, the <hi>Jewes</hi> were, untill Christ comming, unchange<g ref="char:EOLhyphen"/>ably tied thereunto: and what the <hi>Pha<g ref="char:EOLhyphen"/>risees</hi> did in the worship of God, either omit, adde, or alter, is listed among the Traditions of Men, and so rejected. And is it reason, that after Christs comming, it should be left to the prudence of Men, either Prince, or Church, to vary any way of worshipping of God, according to the discretion of Men?</p>
+               <p>Moreover, the Author to the <hi>Hebrews</hi> doth expresly teach, <hi>the faithfulnesse of Christ as a Sonne, above Moses as a Ser<g ref="char:EOLhyphen"/>vant, in setting downe every particular, concerning the ordering of His House,</hi> which is, <hi>the Church; which no Earthly power can, or ought to change, nor silence the publishing of it: but obligeth every faithfull one, to submit unto, and in his place to divulge.</hi>
+               </p>
+               <pb n="4" facs="tcp:207146:7"/>
+               <p> To wade a little further, and that in a methodicall briefnesse, the Causes are considerable.</p>
+               <p>The Efficient, God out of his love, through the Spirit, by his Word, per<g ref="char:EOLhyphen"/>swading Mens hearts <hi>to believe in the Sonne:</hi> that so they may be revested, with the former (or rather better) image of himselfe.</p>
+               <p>The Materiall, are the Saints &amp; Mem<g ref="char:EOLhyphen"/>bers of his Mysticall Body.</p>
+               <p>The Formall, the union with him, and one with another.</p>
+               <p>The Finall, his owne honour, the edi<g ref="char:EOLhyphen"/>fying one another, and their mutuall e<g ref="char:EOLhyphen"/>ternall happinesse.</p>
+               <p>Now the way of Governing,
+<note place="margin">Ex quibus constamus, iisdem nu<g ref="char:EOLhyphen"/>trimur.</note> is the same with Gathering; namely, <hi>the preaching of the Word of God.</hi>
+               </p>
+               <p>But because the manner of divulging the Gospel, by some of our time is con<g ref="char:EOLhyphen"/>troverted, and they would have nothing to be the Word of God, but the very Text of the Old and New Testament; Because, say they, <hi>A concionatory way, is not wholly, intrinsecally, undoubtedly and meerly true.</hi>
+               </p>
+               <p>Of these, I desire to aske but one Quest: <hi>Whether the Word in its originall, not be<g ref="char:EOLhyphen"/>ing understood, be able to convert soules?</hi>
+                  <pb n="5" facs="tcp:207146:7"/>or, <hi>whether all to be converted, must un<g ref="char:EOLhyphen"/>derstand Hebrew and Greek?</hi> which both seem absurdities; or, which necessarily must follow, <hi>they must be converted by the Word translated;</hi> which (besides the various reading of the Originall) is not wholly, intrinsecally, undoubtedly, and meerely true.</p>
+               <p>Finally, the examples of our Fore-fa<g ref="char:EOLhyphen"/>thers converting, with the evidence of so many now converted, may evince the contrary.</p>
+               <p>
+                  <label type="milestone">
+                     <seg type="milestoneunit">Object. </seg>
+                  </label> The general Objection against the pre<g ref="char:EOLhyphen"/>mises is, <hi>that the externall forme of words in preaching, praying, the dayes, or places, instituted for Fasting, or Thanksgiving, with other circumstances, are not distinctly set downe in the holy Scripture, but may in a prudentiall way, be changed, according to the exigency of occasions or persons.</hi>
+               </p>
+               <p>
+                  <label type="milestone">
+                     <seg type="milestoneunit">Answ. </seg>
+                  </label> In the worship of God, two things are to be considered; the <hi>substance,</hi> and the necessary <hi>intervening,</hi> naturall adjuncts.</p>
+               <p>That the Word of God must be prea<g ref="char:EOLhyphen"/>ched, the Sacraments administred, in time of danger, God must be called up<g ref="char:EOLhyphen"/>on; after deliverances, praises must be returned, is an institution of God; and so a Law unalterable. The Intervening adjuncts, are naturall, and no part of
+<pb n="6" facs="tcp:207146:8"/>Gods worship. The manner of expressi<g ref="char:EOLhyphen"/>on, the time, is no more holy, then the place is, nor the publick either time or place, more then a private, whilst I am in my family worshipping of God: they being but naturall circumstances, with<g ref="char:EOLhyphen"/>out which nothing can be done. If there be any holinesse in them, it is for the Works sake, and so but relative: The Sabbath onely excepted, which being at first instituted in relation to <hi>Christ,</hi> should be holy, for it self sake, though no body in the World did keep it.</p>
+               <p>But to speak more home, besides the Universall Church, dispersed here on earth, God hath appointed, for the mu<g ref="char:EOLhyphen"/>tuall edification one of another, some particular Congregations, to joyne into bodies, which have right unto all the Or<g ref="char:EOLhyphen"/>dinances left by Christ &amp; his Apostles, as is the receiving in, building up, the casting out, which are actions not com<g ref="char:EOLhyphen"/>petent to the <hi>Universall,</hi> and therefore may be called <hi>Ministeriall.</hi>
+               </p>
+               <p>I cannot so readily assent to those who say, <hi>that two or three gathered together in<g ref="char:EOLhyphen"/>to a society, make a Ministeriall Church:</hi> For that, <hi>Mat.</hi> 18. speaking of a <hi>Mini<g ref="char:EOLhyphen"/>steriall Church,</hi> presupposeth more per<g ref="char:EOLhyphen"/>sons; for, <hi>If thy Brother offend thee,</hi> there
+<pb n="7" facs="tcp:207146:8"/>are two persons, <hi>and after reproof will not heare thee, take one or two with thee,</hi> there are foure Persons besides the Church: yet, how small a number, the <hi>Embryo</hi> of a particular Church, may be is hard to depose definitively.</p>
+               <p>As in all sensitive bodies, these three faculties are required, <hi>to Attract, to Nourish,</hi> and <hi>to Expell;</hi> the same may be said of every Congregation: It must have power within it selfe to admit, and receive in; to nourish and mutually edi<g ref="char:EOLhyphen"/>fie those within; and to expell or decline that which is noxious.</p>
+               <p>But the grand <hi>Quaere</hi> will be, <hi>whence it deriveth this power?</hi> For they of the See of <hi>Rome,</hi> lay claime to derive it suc<g ref="char:EOLhyphen"/>cessively, from Christ and his Apostles, and so exclude (as Hereticks) all those that usurp the title of a true Church or true Ministery, without Succession or Ordination from them.</p>
+               <p>Others even of our Brethren, in the Reformed Churches, doe deny this to belong to a Church, without some suc<g ref="char:EOLhyphen"/>cession or dependency on other Chur<g ref="char:EOLhyphen"/>ches, of whom I desire of these two Que<g ref="char:EOLhyphen"/>stions a resolution:</p>
+               <p>
+                  <label type="milestone">
+                     <seg type="milestoneunit">Quest. </seg>1</label>
+                  <hi>Whether a company of Godly People, be<g ref="char:EOLhyphen"/>ing by shipwrack, cast into a barbarous or
+<pb n="8" facs="tcp:207146:9"/>empty Island, where they are like to live out their daies, may not joyne into a spirituall body, and so raise up unto themselves, the exercise of all the Ordinances of Christ revealed in his Word?</hi>
+               </p>
+               <p>Lest any should deny it,
+<label type="milestone">
+                     <seg type="milestoneunit">Answ. </seg>
+                  </label> these things are tenderd to their consideration: what<g ref="char:EOLhyphen"/>soever is spiritually a living body, <hi>is spiri<g ref="char:EOLhyphen"/>tually</hi>
+                  <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>, <hi>a perfecting it self.</hi> This is an axiome grounded upon reason, <hi>Arist:</hi> applies <hi>to the soul of Man.</hi> But all <hi>Believers</hi> are spiritually living bodies, and have an inward principle, to build up themselves, &amp; others in their holy faith. So 1 <hi>Thes.</hi> 5. they are cōmanded <hi>to edifie one another:</hi> and 1 <hi>Peter,</hi> 2. the faithfull are called <hi>li<g ref="char:EOLhyphen"/>ving stones.</hi> Now who can doubt, but if a company of living stones meet and joyne together,
+<note place="margin">Lord ga<g ref="char:EOLhyphen"/>ther them all!</note> as they by inclination will, but they may, and ought, to reare up from themselves, a perfect edifice?</p>
+               <p>Again,
+<label type="milestone">
+                     <seg type="milestoneunit">Que. </seg>2</label> I aske, in time of Reformation from Idolatry, or prophanenesse, to a re<g ref="char:EOLhyphen"/>gular holinesse, <hi>Whether there be not the same necessity, which there was in the case stated before?</hi>
+               </p>
+               <p>If yea;
+<label type="milestone">
+                     <seg type="milestoneunit">Answ. </seg>
+                  </label> then they may joyne together into a Church, without any succession, or dependency, on other Churches; if not, either they must require some super<g ref="char:EOLhyphen"/>stitious
+<pb n="9" facs="tcp:207146:9"/>or prophane Minister, to receive in Members, Ordaine Officers, in a true Church, which is absurd: or else they must stay, till they meet with another true Church and Ministery, which, be<g ref="char:EOLhyphen"/>sides the difficulty, savoreth of a Prela<g ref="char:EOLhyphen"/>ticall Jurisdiction of one Church over another; of which, something anon.</p>
+               <p>Some that meekly and earnestly con<g ref="char:EOLhyphen"/>tend against this way, ground upon two maine Arguments: The first is, <hi>It is un<g ref="char:EOLhyphen"/>lawfull, to withdraw from a true Church.</hi> The second is, concerning <hi>read Prayer.</hi> A word to each. First, I deny that there is, or hath been, since the casting off of the <hi>Jewes,</hi> any Nationall Ministeriall Church; in which none might dwell, but of the same Religion with them: and so it is the begging of the question. To the second, I answer, that there is a great difference, of reading of a prayer, and committing heads of it, to memory; (the case is the same in preaching)the latter being a meanes sanctified, and a gift re<g ref="char:EOLhyphen"/>quired in every Minister: The former, there being no example for it, nor any Past or all gift eminent in it.</p>
+               <p>To conclude this point, it seemeth more then probable, that a company of Faithfull, <hi>(the Heart no Man knoweth)</hi>
+                  <pb n="10" facs="tcp:207146:10"/>uniting themselves into a body, become a true Ministeriall Church; and having Christ for their sole head, may claime priviledge, to all the Ordinances, institu<g ref="char:EOLhyphen"/>ted in the Gospell, as by a Charter be<g ref="char:EOLhyphen"/>longing to them; without any necessary dependency, upon any power, either Se<g ref="char:EOLhyphen"/>cular or Ecclesiasticall.</p>
+               <p>Other things might be added, and ob<g ref="char:EOLhyphen"/>jections answered, but, because I study brevity, and am loath to plume my selfe with other Birds feathers, or to surfet the Reader with twice warm'd cabbage; I proceed to another controvertable Que<g ref="char:EOLhyphen"/>stion.</p>
+            </div>
+            <div n="2" type="proposition">
+               <pb n="11" facs="tcp:207146:10"/>
+               <head>II. <hi>Of Ministers.</hi>
+               </head>
+               <p>
+                  <hi>WHether a Minister,</hi>
+                  <label type="milestone">
+                     <seg type="milestoneunit">Quest. </seg>1</label>
+                  <hi>may ad<g ref="char:EOLhyphen"/>minister the Sacrament out of his owne Church?</hi>
+               </p>
+               <p>There may be considered,
+<label type="milestone">
+                     <seg type="milestoneunit">Answ. </seg>
+                  </label> in a Mini<g ref="char:EOLhyphen"/>sters Office, two things; <hi>his power</hi> over his owne, and <hi>his duty</hi> of benefit towards others: Now, no act of power, can he exercise unto any out of his Church, but any act of benefit he may: The Sacra<g ref="char:EOLhyphen"/>ments therefore, being no act of power, seem to may be administred without his owne Church: These considerations be<g ref="char:EOLhyphen"/>ing ballanced,</p>
+               <p>
+                  <milestone type="tcpmilestone" unit="unspecified" n="1"/> The Levites, this way, were tied, though to a Nation, yet not to any particular Tribe, <hi>Jud.</hi> 17.9.</p>
+               <p>
+                  <milestone type="tcpmilestone" unit="unspecified" n="2"/> If he may not administer the Sacra<g ref="char:EOLhyphen"/>ments out of his owne Church, then none, upon any occasion, (being absent from their own) might either themselves, or their Children, be Partakers of the Sister Churches Sacraments; which is against the practise of the Churches A<g ref="char:EOLhyphen"/>postolicall, and now best Reformed.
+<pb n="12" facs="tcp:207146:11"/>The reason of the consequence is this, If he admit a Stranger, either he becomes by that act, one of them, or not: If not, then he administers to some, out of his owne Church; (and why not then unto most, or unto all?) If he become one of them, then he may be a Member of two, or severall Churches, at once, which is absurd.</p>
+               <p>
+                  <milestone type="tcpmilestone" unit="unspecified" n="3"/> Deacons might, and ought sometimes, to administer out of their owne Church, 2 <hi>Cor.</hi> 8.</p>
+               <p>
+                  <milestone type="tcpmilestone" unit="unspecified" n="4"/> It would redound to the more com<g ref="char:EOLhyphen"/>fort unto the Churches, and for their further building up, and mutuall society, without any Ataxy.</p>
+               <p>
+                  <label type="milestone">
+                     <seg type="milestoneunit">object. </seg>
+                  </label>
+                  <hi>The administration of the Sacraments is an act of Power and Authority.</hi>
+               </p>
+               <p>
+                  <label type="milestone">
+                     <seg type="milestoneunit">answ. </seg>
+                  </label> I confesse it is an act of Place or Of<g ref="char:EOLhyphen"/>fice, so was the carrying out of Ashes, from the Altar; but if the Giving the Sacraments be an act of Authority, then is the Receiving of them an act of Sub<g ref="char:EOLhyphen"/>jection, by the rule of Relatives: But none will say, that, by receiving the Sa<g ref="char:EOLhyphen"/>craments, they are subject to that Church or power.</p>
+               <p>
+                  <label type="milestone">
+                     <seg type="milestoneunit">Just. </seg>
+                  </label>
+                  <hi>The Mayor is not to exercise any power of his office, neither set the City seale, to any thing out of his Jurisdiction.</hi>
+               </p>
+               <pb n="13" facs="tcp:207146:11"/>
+               <p> He may give advice,
+<label type="milestone">
+                     <seg type="milestoneunit">Ans. </seg>1</label> yea be helpfull as a Deputy, out of his owne Corporation, for some Neighbour or publique good.</p>
+               <p>The <hi>simile</hi> differs in the maine,
+<milestone type="tcpmilestone" unit="unspecified" n="2"/> because every Corporation hath its severall Seal; but all the Churches have the same, throughout the World: Which rather proveth the Question in hand.</p>
+               <p>
+                  <hi>Whether,</hi>
+                  <label type="milestone">
+                     <seg type="milestoneunit">Que. </seg>2</label>
+                  <hi>if a Popish Priest reforming unto Protestantisme, remaine a Minister by his former Orders in that Reformed Church?</hi>
+               </p>
+               <p>The negative is most like,
+<label type="milestone">
+                     <seg type="milestoneunit">Answ. </seg>
+                  </label> these reasons considered:</p>
+               <p>He must be chosen from among the Godly:
+<milestone type="tcpmilestone" unit="unspecified" n="1"/> Now <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>, (after the con<g ref="char:EOLhyphen"/>veighing of gifts by Miracle, which like the Therapeutick Chrisme, died with, or soone after the Apostles) is must the demonstration or confirmation of his choice;
+<note place="margin">Digito monstrari &amp; dicitur bic est.</note> as others have proved suffici<g ref="char:EOLhyphen"/>ently.</p>
+               <p>
+                  <milestone type="tcpmilestone" unit="unspecified" n="2"/> He shall have an office of Ministry, or Pastorship, before he have a Flock; or, perhaps, before he be a Member of a true Ministeriall Church; which none can imagine.</p>
+               <p>Concerning the difference, or retaining Baptisme, and not Ordination, others have plowed the field enough.</p>
+            </div>
+            <div n="3" type="proposition">
+               <pb n="14" facs="tcp:207146:12"/>
+               <head>III. <hi>Of Sacraments.</hi>
+               </head>
+               <p>
+                  <label type="milestone">
+                     <seg type="milestoneunit">Quest. </seg>
+                  </label>
+                  <hi>WHether Baptisme received unworthily may be reitera<g ref="char:EOLhyphen"/>ted?</hi>
+               </p>
+               <p>
+                  <label type="milestone">
+                     <seg type="milestoneunit">Answ. </seg>
+                  </label> It being a seale of a soederall Covenant on Gods part, its truth like, that once administred, I afterward, by faith, ap<g ref="char:EOLhyphen"/>plying the signe to my self, may have the fruit and benefit thereof: And so after any sinne, by ruminating thereon, may draw fresh solace, without reiteration of the Element; God alwaies owning his Vessels, though in Usurpers hands.</p>
+               <p>So also in the Supper of the Lord, the fruit, and <hi>signatum</hi> thereof, may be upon necessity, oftner extracted, by medita<g ref="char:EOLhyphen"/>tion and application, then it is clemen<g ref="char:EOLhyphen"/>tally exhibited.</p>
+               <p>This, (for feare of mistake) I write, somewhat to satisfie the dissenting Chri<g ref="char:EOLhyphen"/>stians for Re-baptizing themselves; as also those, who cannot die quietly, with<g ref="char:EOLhyphen"/>out the Lords Supper administred to them, on their death-beds.</p>
+            </div>
+            <div n="4" type="proposition">
+               <pb n="15" facs="tcp:207146:12"/>
+               <head>IV. <hi>Of Adam.</hi>
+               </head>
+               <p>
+                  <label type="milestone">
+                     <seg type="milestoneunit">Quest. </seg>
+                  </label>
+                  <hi>WHether matter of propagati<g ref="char:EOLhyphen"/>on were concreated with A<g ref="char:EOLhyphen"/>dam?</hi>
+               </p>
+               <p>
+                  <label type="milestone">
+                     <seg type="milestoneunit">Answ. </seg>
+                  </label> Upon this Question affirmed, seems to depend, <hi>Caine's</hi> exemption from Ori<g ref="char:EOLhyphen"/>ginall sinne.</p>
+               <p>For every thing in innocency, without let, executing the great <hi>Fiat</hi> of <hi>his Maker,</hi> and nothing being unfruitfull; It should seem, that either <hi>Caine</hi> was excepted from that sinne; or else that it is contra<g ref="char:EOLhyphen"/>cted by imitation; which some defend. Besides, why should not Man, the per<g ref="char:EOLhyphen"/>fectest of these mundane multiplying Creatures, have the materiall principle of generation, at his Creation? seeing this perfection did adorne inferior Crea<g ref="char:EOLhyphen"/>tures: every thing being created in its perfect estate. For the forbidden fruit with the rest, (and therefore the kernell) was certainly ripe; else would it neither have been so lovely, or desirable to eat, by those, who could, before the Fall, see further then paring deep.</p>
+               <pb n="16" facs="tcp:207146:13"/>
+               <p> Yet, the contrary Opinion hath its weight: <hi>Crescite &amp; Multiplicate,</hi> was the first blessing God delivered to our Primogenitors; now the latter in course of Nature being impossible without the former, and the former not to be attained without eating, yea the extreamest dige<g ref="char:EOLhyphen"/>stion, it being the excrement according to Physitians of the last concoction: It is most probable, that <hi>Adam</hi> had no ex<g ref="char:EOLhyphen"/>crement, concreated with him; or that he stood not so long in innocency, till his food was concocted in his stomack, chi<g ref="char:EOLhyphen"/>lified, and afterward elaborated in the se<g ref="char:EOLhyphen"/>minary vessels.</p>
+            </div>
+            <div n="5" type="proposition">
+               <pb n="17" facs="tcp:207146:13"/>
+               <head>V. <hi>Of Marriage.</hi>
+               </head>
+               <p>COncerning this subject, I will en<g ref="char:EOLhyphen"/>quire into two Questions:</p>
+               <p>
+                  <label type="milestone">
+                     <seg type="milestoneunit">Que. </seg>1</label>
+                  <hi>By whom the Parties are to be joyned?</hi>
+               </p>
+               <p>
+                  <label type="milestone">
+                     <seg type="milestoneunit">Answ. </seg>
+                  </label> Marriage being the first foundation of a Family, out of a principle of love, not of mutuall feare, (as some derive all So<g ref="char:EOLhyphen"/>cieties from) and the conjunction of Fa<g ref="char:EOLhyphen"/>milies making a Politicall body, being common to the whole World; may ra<g ref="char:EOLhyphen"/>ther be ranked, under a Civill, than any Religious or Ecclesiasticall Institution. So in the holy Scriptures, we never read, that it was done by any in a Priestly Of<g ref="char:EOLhyphen"/>fice; but by Judges, and that in a place of Civill Judicature.</p>
+               <p>Neither is there any precept, directly or Analogically, either in the Old or New Testament, tying it unto the Office of a Priest or Minister.</p>
+               <p>Further, as farre as my inquisition can reach, among the Heathen, out of a prin<g ref="char:EOLhyphen"/>ciple of Nature, the King joyneth them together, and not the Priest.</p>
+               <pb n="18" facs="tcp:207146:14"/>
+               <p> Prayers for a blessing on it, maketh it no more a spirituall thing, than praying for a blessing upon Peace, Warre, Trea<g ref="char:EOLhyphen"/>ties, or worldly labour, maketh them of a holy and religious nature.</p>
+               <p>
+                  <label type="milestone">
+                     <seg type="milestoneunit">Que. </seg>2</label>
+                  <hi>Whether Incest be a sinne against the Morall Law?</hi>
+               </p>
+               <p>
+                  <label type="milestone">
+                     <seg type="milestoneunit">Answ. </seg>
+                  </label> As we take Incest a pollution among those of consanguinity, it seemeth doubt<g ref="char:EOLhyphen"/>f<gap reason="illegible" resp="#keyers" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>: Because God would never have put such a Law in the heart of <hi>Adam,</hi> the first execution whereof, in the two succeeding Generations, he was necessi<g ref="char:EOLhyphen"/>tated to dispence withall. For <hi>Cain</hi> and <hi>Abel</hi> were to marry their Sisters, except God had created another stock; which is more likely, than to bring them to that indigency, (and that without their owne delinquency) that without this sinne, the whole <hi>species</hi> of Mankind, must have perished with them.</p>
+               <p>Further, if it had been a part of the Mo<g ref="char:EOLhyphen"/>rall Law, the contrary would never have been permitted, yea commanded upon paine of death, unto the <hi>Jewes,</hi> in their Judiciall Law: yea, it appeareth to have been instituted long before <hi>Moses,</hi> by <hi>Gen.</hi> 38.</p>
+               <p>Lest any hereby should be incouraged unto licentiousnesse, I adde; where con<g ref="char:EOLhyphen"/>junction
+<pb n="19" facs="tcp:207146:14"/>of Consanguinity is forbidden by the Supreme power, there the com<g ref="char:EOLhyphen"/>mitting of it, becometh formally, though not materially, a sinne against the Morall Law, and not against the seventh Com<g ref="char:EOLhyphen"/>mandement, but against the fifth. Be<g ref="char:EOLhyphen"/>sides, that the Supreme power may en<g ref="char:EOLhyphen"/>large, contract, or alter these bounds, and their punishments, as also that of theft, according unto the variety of ur<g ref="char:EOLhyphen"/>gent necessities, I see no enormity in it.</p>
+               <p>These, and the like things, are duly to be pondered, by those, who will deter<g ref="char:EOLhyphen"/>mine, how farre our Lawes must run pa<g ref="char:EOLhyphen"/>rallel, with the Judiciall of the <hi>Jewes.</hi>
+               </p>
+            </div>
+            <div n="6" type="proposition">
+               <pb facs="tcp:207146:15"/>
+               <head>VI. <hi>Of Sympathy.</hi>
+               </head>
+               <p>
+                  <hi>THat a Man helpeth a Woman to breed,</hi> that is, <hi>is sick in the time of her Gestation,</hi> is a received opini<g ref="char:EOLhyphen"/>on among many.</p>
+               <p>
+                  <hi>That sicknesse unto both, at the same time may often concurre casually, not causally,</hi> I confesse: For that an excretion, or part of a Man, being separated, should affect at distance its former remainder, cannot to me be made out, either by evident ex<g ref="char:EOLhyphen"/>perience or convincing reason: Though many of late, have written both learned<g ref="char:EOLhyphen"/>ly and largely, concerning such subjects.</p>
+               <p>But touching this instance, <hi>that the re<g ref="char:EOLhyphen"/>tention of the Lunary evacuations, may, (as it doth the Woman) by a diaphoreticall way, affect and staine the spirits of an ac<g ref="char:EOLhyphen"/>companying Man, which soone will procure a dyscrasie in naturall actions,</hi> I can con<g ref="char:EOLhyphen"/>ceive: As also <hi>that a strict continence, (where use hath met with a fit temperature to the contrary) may oft sensibly affect the Male,</hi> our dayly experience doth teach.</p>
+               <p>Some indeed, are like the Hebrew Wo<g ref="char:EOLhyphen"/>men,
+<pb n="21" facs="tcp:207146:15"/>who can <hi>deliver with a groane, or two,</hi> which the Husband tender and pu<g ref="char:EOLhyphen"/>sillanimous, hearing of, falls into paines of feare and grief: But, that this should be an abatement to the Wife, were to in<g ref="char:EOLhyphen"/>vert the curse laid upon the Woman: as my learned Brother before me sheweth <hi>in the case of a Viper.</hi>
+               </p>
+               <p>There are Writers, that speak concer<g ref="char:EOLhyphen"/>ning Sympathy, <hi>of a Woman newly ingra<g ref="char:EOLhyphen"/>vidated, and a Beare,</hi> and remit us for ex<g ref="char:EOLhyphen"/>periment into <hi>England:</hi> Which yet I could never see, nor fully be satisfied in.</p>
+               <p>But, upon supposition, it is worth the enquiry, <hi>whether it be out of love to the Woman through lasciviousnesse?</hi> which would produce a strange paradox; or, <hi>Whether by a cruell and immature Mid<g ref="char:EOLhyphen"/>wiving the fruit, to satisfie the immensity of its hunger?</hi> Howsoever, if it were certainly true, one might, without dan<g ref="char:EOLhyphen"/>ger, use it in the discovery of impregna<g ref="char:EOLhyphen"/>tion, and so often save the lives of two at once.</p>
+            </div>
+            <div n="7" type="proposition">
+               <pb n="22" facs="tcp:207146:16"/>
+               <head>VII. <hi>Of an Egge.</hi>
+               </head>
+               <p>
+                  <hi>THat the White is nourished by the Yolke, as having its</hi> Menstruum <hi>within it selfe, is, though wonder<g ref="char:EOLhyphen"/>full, yet by dayly Autopsy, uncontroulable.</hi>
+               </p>
+               <p>But here lieth the knot which is not so easily dissolved; by what vessels this nourishment is attracted, and where they are inserted.</p>
+               <p>I know, after 2 or 3 daies incubation, there is a sanguine-like string, from the treading, or Cock sperme, but that that should be the umbilicality of the Chic<g ref="char:EOLhyphen"/>ken, is not demonstrable. Neither is there any cicatrice, or least <hi>vestigium</hi> thereof remaining in any new-hatcht deplumed Chicken. Neither is it like it should be inserted at the bill; for then the bill, as the deferring organ, should be made first: nor doth any perfect feature attract nou<g ref="char:EOLhyphen"/>rishment mouth-wise, before its eruption into the world: And if by the vent ali<g ref="char:EOLhyphen"/>ment should be conveighed, besides the preposterousnesse in nature, the entralls must suffer a great perturbation, before
+<pb n="23" facs="tcp:207146:16"/>the turning of the wonted peristaltick motion. Or if by a <hi>diaphoresis</hi> or tran<g ref="char:EOLhyphen"/>spiration, it would encourage us to admi<g ref="char:EOLhyphen"/>nister topically such aliment, as might afford solid nourishment, and so become the easiest and safest remedy in many de<g ref="char:EOLhyphen"/>plorable diseases.</p>
+            </div>
+            <div n="8" type="proposition">
+               <pb n="24" facs="tcp:207146:17"/>
+               <head>VIII. <hi>Of Swimming, or Floating.</hi>
+               </head>
+               <p>HEre give me leave to recite an ocular experiment of mine own; Being with some Friends, in the Canicular daies, about noone time, in a Chamber, at <hi>Catwick of Zee,</hi> neer to the <hi>Arx Britannica</hi> that <hi>Julius Caesar</hi> foun<g ref="char:EOLhyphen"/>ded, we saw a young Man go to bathe him in the Sea, and falling into a hole, which a Ship new launched, by the in<g ref="char:EOLhyphen"/>comming flood, had made, being un-ex<g ref="char:EOLhyphen"/>pert in swimming, was drowned: two or three howers after we went into the Sea, and spied the drowned Man floating (the <hi>nucha</hi> and the haire of his neck was all we could see) we brought him to shoare, but without either hope, or triall of re<g ref="char:EOLhyphen"/>covery.</p>
+               <p>Now the reason hereof is somewhat abstruse: In Man there be divers parts to be examined, in relation to the gravi<g ref="char:EOLhyphen"/>ty of water; there are bones, flesh, brains, liver, and other entrailes, heavier; there are the lungs, and fat, lighter; beside se<g ref="char:EOLhyphen"/>verall
+<pb n="25" facs="tcp:207146:17"/>concavities, where, upon Anato<g ref="char:EOLhyphen"/>my, we can see nothing but the empty cells of the removed spirits. Now, the body of Man, as it differeth in gravity in its severall parts, so doth also one body from another; that in some, there nee<g ref="char:EOLhyphen"/>deth but a small moment to make them aequilibrous with the water.</p>
+               <p>Some ridiculously ascribe it <hi>to the breaking of the Gall;</hi> which as in reality, so in reason is false. Others introduce with more judgment <hi>the fermentation of the body;</hi> which, making an extension, doth acquire levity.</p>
+               <p>The supine resting on water, without motion, onely by retention of aire, keep<g ref="char:EOLhyphen"/>ing the lungs full, doth digitate a reason.</p>
+               <p>A culinary experiment hath, in part, given me some satisfaction: the boyling of Lights in a pot, to see, what a weight it will beare up: Now if there can be conceived (as I see nothing to the con<g ref="char:EOLhyphen"/>trary) an after heat, which the lungs may acquire severall waies, and so rarifie the contained aire, the reason may without difficulty be conjectured.</p>
+            </div>
+            <div n="9" type="proposition">
+               <pb n="26" facs="tcp:207146:18"/>
+               <head>IX. <hi>Of Remedies.</hi>
+               </head>
+               <p>IN the disquisition of Therapeuticks, I would first look into the <hi>Pharmaco<g ref="char:EOLhyphen"/>peia Universalis</hi> of Nature: the sedu<g ref="char:EOLhyphen"/>lous culture whereof, would abridge the number of exotick simples.</p>
+               <p>In Prophylacticks we see, where the pinching'st cold is, there the wise Creator hath recompenced it with aboundance of fewell and skins. Where there is any Endemicall disease, there you shall find the adequate <hi>Alexiferium:</hi> As the <hi>Gua<g ref="char:EOLhyphen"/>jacum,</hi> where the venereous disease had its commencement; the Irish Slat, for their particular Flux: so we see Scorbutiall herbes to luxuriate where the Skurvie predominates; as the <hi>Sedum minus</hi> in <hi>Sweden;</hi> the <hi>Chamernbus</hi> in <hi>Norway;</hi> the <hi>Cochlearia</hi> in <hi>Germany</hi> and <hi>England;</hi> and will not grow either by seed, or plant, in <hi>France;</hi> which is exempted from this disease, as the Physick Professours told me there.</p>
+               <p>Furthermore, Nature seemeth to ob<g ref="char:EOLhyphen"/>serve time; for when Feavers and Pluri<g ref="char:EOLhyphen"/>sies
+<pb n="27" facs="tcp:207146:18"/>are most frequent, which is about the Summer solstice, then are <hi>Papaver Rheas,</hi> Lettice, with other proper herbs, in their fullest vigour.</p>
+               <p>The like might be elaborated by indu<g ref="char:EOLhyphen"/>stry in domestick purgative and sudori<g ref="char:EOLhyphen"/>fick Medicines; the use of the former, with phlebotomy some of late have with great applause, though with weake en<g ref="char:EOLhyphen"/>gines, gone about to batter downe; a thing of eminent consequence, these rea<g ref="char:EOLhyphen"/>sons considered:</p>
+               <p>Art is the servant or ape of Nature, and where it seeth Nature to cure by such meanes, therein Art must imitate it.</p>
+               <p>Thus on little ones, where Nature doth cure by vomiting, there a Physitian may upon due consideration supply the place of Nature. Neither doe the purging Medicines corrupt the good humors, as they pretend, most of the purges being bitter, and so preservatives against putre<g ref="char:EOLhyphen"/>faction.</p>
+               <p>Besides, daily experience doth teach, that warme water (which in so short a time, cannot be conceived to corrupt) doth, as a vehicle, often educe putrid and superfluous humours, with a great alteration of the Patient. As well they may imagine, that a Glyster of Milke,
+<pb n="28" facs="tcp:207146:19"/>doth in so short a time breed those <hi>worms</hi> which are allured to it, and excreted with it. Moreover, we see in most acute dis<g ref="char:EOLhyphen"/>eases, that by spontaneous bleeding, and that severall waies, either in Man or Wo<g ref="char:EOLhyphen"/>man, sometime also in Children, there is by the sole help of Nature a criticall so<g ref="char:EOLhyphen"/>lution.</p>
+               <p>Finally, the long experiment of the concording Practitioners, with the con<g ref="char:EOLhyphen"/>firmation of myriades of Patients, con<g ref="char:EOLhyphen"/>fessing the sudden refreshment by bleed<g ref="char:EOLhyphen"/>ing, when the blood is peccant, either in quantity, quality, or motion, may con<g ref="char:EOLhyphen"/>firme the usefulnesse, yea necessity of Phlebotomy.</p>
+            </div>
+            <div n="10" type="proposition">
+               <pb n="29" facs="tcp:207146:19"/>
+               <head>X. <hi>Of Telesmes.</hi>
+               </head>
+               <p>
+                  <label type="milestone">
+                     <seg type="milestoneunit">Quest. </seg>
+                  </label>
+                  <hi>WHether averruncation of E<g ref="char:EOLhyphen"/>pidemicall diseases, by Te<g ref="char:EOLhyphen"/>lesmes, be feisable and law<g ref="char:EOLhyphen"/>full?</hi>
+               </p>
+               <p>
+                  <label type="milestone">
+                     <seg type="milestoneunit">Answ. </seg>
+                  </label> That this hath been effected, and that lawfully upon the warrant of Gods edict is evident, in the curing of the bitings of Serpents, by erecting a brazen Serpent in the Wildernesse, the aspect whereof I confesse did cure at a distance.</p>
+               <p>Yeelding some latitude to the word, I shall commit no solaecisme, if I say, that the Rainbow hath a Telesmaticall signi<g ref="char:EOLhyphen"/>fication for the preservation of the Uni<g ref="char:EOLhyphen"/>verse, from inundation.</p>
+               <p>That the <hi>Ekronites</hi> did make their eight golden Mice and five Emrods, and put them in a coffer by the Arke, for averting Apotelesmatically their Epidemicall dis<g ref="char:EOLhyphen"/>cases, is evident by the sacred Word; and humane Writers doe often concen<g ref="char:EOLhyphen"/>ter in this truth: in which art <hi>Apollonius Thyaneus,</hi> by the testimony of severall Authors of all the rest, did obtaine the
+<pb n="30" facs="tcp:207146:20"/>Lawrell. But, how lawfully this was done, or might be done, is not obvious to my capacity.</p>
+               <p>I am not affraid to exhibite many simples, the effect whereof I cannot so readily reduce to manifest causes: else I were to abandon all, Magneticall, Ele<g ref="char:EOLhyphen"/>ctricall, or Antimoniall Medicines; yea, light and fire, the effects whereof every vulgar eye doth sensibly perceive, their proper formes are abstruse from most judicious men.</p>
+               <p>But, that the formes of these subluna<g ref="char:EOLhyphen"/>ry things are answered with the like Ce<g ref="char:EOLhyphen"/>lestiall Figurations, and the <hi>Idea</hi>'s of all Terrestriall things, are in the fixed Hea<g ref="char:EOLhyphen"/>vens by Man to be distinguished, I can hardly be induced to believe; and that upon these grounds:</p>
+               <p n="1">1. The Signes within the Zodiack, or beyond the Tropicks, were made in an arbitrary or fortuitous way; because such a <hi>Sidus,</hi> whether <hi>artificiall</hi> or <hi>ani<g ref="char:EOLhyphen"/>mal,</hi> would best containe the most emi<g ref="char:EOLhyphen"/>nent Starres of that constellation.</p>
+               <p n="2">2. There be many glorious <hi>Sidera,</hi> which can have no respouse with things here on earth: neither are they to be ranked among naturall things, as <hi>Lyra, Crater,</hi> &amp;c.</p>
+               <p n="3">
+                  <pb n="31" facs="tcp:207146:20"/> 3. Some are duplicated, as <hi>Coron<gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>, Triangulum, Canis,</hi> and that within the same Hemisphere, as <hi>Ursa.</hi>
+               </p>
+               <p n="4">4. There seemeth a defect, at least it is unknown to us, of Stars, answering the vegetables, in the surface of this our ha<g ref="char:EOLhyphen"/>bitable earth.</p>
+               <p n="5">5. The slow proreption of every <hi>Sidus</hi> out of his proper signe, almost unto the subsequent; (whether in the eighth or ninth Sphere, it mattereth not) doth over<g ref="char:EOLhyphen"/>throw the grand pillar of <hi>Stoicheiomati<g ref="char:EOLhyphen"/>call</hi> Art: So that if I were to cure the bitings of Scorpions, this way; I should rather take the time when the Moone is in <hi>Sagittarius,</hi> and make the figure of a Centaure than a Scorpion, which hath crept 28. degrees out of his own Signe.</p>
+               <p>So that if any effect of removing Epi<g ref="char:EOLhyphen"/>demicall diseases by <hi>Telesmes</hi> be produ<g ref="char:EOLhyphen"/>ced, I should rather ascribe it unto the Prince of the Aire, (it being the fittest <hi>Medium</hi> to propagate all Epidemicall nuisances) who will servilely obey such demands, that he might perpetually cap<g ref="char:EOLhyphen"/>tivate the Soule in a false perswasion of his Omnipotency.</p>
+               <trailer>FINIS.</trailer>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>
